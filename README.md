@@ -3,6 +3,12 @@
 This is the final code from the article "How To Dockerize Your Hardhat Solidity Contract On Localhost".
 This is a base from the sample project provided by Hardhat but configured to use it with Docker.
 
+If you got value from this and want to see more content from me, please follow/add me on:
+
+- [twitter.com/codingwithmanny](https://twitter.com/codingwithmanny)
+- [medium.com/@codingwithmanny](https://codingwithmanny.medium.com)
+- [instagram.com/codingwithmanny](www.instagram.com/codingwithmanny/)
+
 ## Requirements
 
 - NVM or NodeJS `v14.17.6`
