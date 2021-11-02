@@ -35,7 +35,9 @@ task("my-deploy", "Deploys contract, get wallets, and outputs files", async (tas
  */
 module.exports = {
   solidity: "0.8.4",
-  hardhat: {
-    chainId: 1337
-  },
+  networks: {
+    hardhat: {
+      chainId: 1337
+    },
+  }
 };
